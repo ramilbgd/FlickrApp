@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{ED6C144C-565C-4AA4-8A4F-FA145020CE02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FLickrApp/ViewModel/MainViewModel.cs">
+    <Files>
+      <File FileName="FLickrApp/Sevices/DataStore.cs" Line="16" Column="41" />
+      <File FileName="FLickrApp/Views/MainPage.xaml" Line="24" Column="15" />
+      <File FileName="FLickrApp/Views/MainPage.cs" Line="11" Column="29" />
+      <File FileName="FLickrApp/ViewModel/MainViewModel.cs" Line="23" Column="19" />
+      <File FileName="FLickrApp/Sevices/IDataStore.cs" Line="12" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../BudgetOnline/BudgetOnline/ManageMenu.cs" line="448" offsetX="545" offsetY="6705" expression="report.First().Status" liveUpdate="False" />
+    <Watch file="../../BudgetOnline/BudgetOnline/DownloadBackground.cs" line="462" offsetX="588" offsetY="6915" expression="file.FileState" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FLickrApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FDCE127A-AD79-458E-8054-C39B85D267DA">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FLickrApp.iOS>
+  <MonoDevelop.Ide.ItemProperties.FLickrApp.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+</Properties>
